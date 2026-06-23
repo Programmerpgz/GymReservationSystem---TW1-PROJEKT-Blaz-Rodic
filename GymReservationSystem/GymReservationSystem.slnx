@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../GymReservationSystem.Application/GymReservationSystem.Application.csproj" />
+  <Project Path="../GymReservationSystem.Domain/GymReservationSystem.Domain.csproj" />
+  <Project Path="../GymReservationSystem.Infrastructure/GymReservationSystem.Infrastructure.csproj" />
+  <Project Path="../GymReservationSystem.Test/GymReservationSystem.Test.csproj" />
+  <Project Path="GymReservationSystem.API.csproj" />
+</Solution>

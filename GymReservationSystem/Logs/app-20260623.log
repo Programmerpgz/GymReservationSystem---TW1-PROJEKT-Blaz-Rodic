@@ -1,0 +1,26 @@
+2026-06-23 19:19:32.752 +02:00 [INF] User profile is available. Using 'C:\Users\Blaž Rodić\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-06-23 19:19:32.986 +02:00 [INF] Now listening on: http://localhost:5072
+2026-06-23 19:19:33.025 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-23 19:19:33.026 +02:00 [INF] Hosting environment: Development
+2026-06-23 19:19:33.027 +02:00 [INF] Content root path: C:\Users\Blaž Rodić\Desktop\GymReservationSystem\GymReservationSystem
+2026-06-23 19:19:33.674 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5072/swagger/index.html - null null
+2026-06-23 19:19:33.927 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5072/swagger/index.html - 200 null text/html;charset=utf-8 260.0065ms
+2026-06-23 19:19:33.954 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5072/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-23 19:19:33.963 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5072/_framework/aspnetcore-browser-refresh.js - 200 14953 application/javascript; charset=utf-8 9.9818ms
+2026-06-23 19:19:34.011 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5072/_vs/browserLink - null null
+2026-06-23 19:19:34.080 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 69.4807ms
+2026-06-23 19:19:34.229 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5072/swagger/v1/swagger.json - null null
+2026-06-23 19:19:34.244 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5072/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 15.7287ms
+2026-06-23 19:22:14.540 +02:00 [INF] User profile is available. Using 'C:\Users\Blaž Rodić\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-06-23 19:22:14.714 +02:00 [INF] Now listening on: http://localhost:5072
+2026-06-23 19:22:14.786 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-23 19:22:14.787 +02:00 [INF] Hosting environment: Development
+2026-06-23 19:22:14.789 +02:00 [INF] Content root path: C:\Users\Blaž Rodić\Desktop\GymReservationSystem\GymReservationSystem
+2026-06-23 19:22:15.660 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5072/swagger/index.html - null null
+2026-06-23 19:22:15.907 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5072/swagger/index.html - 200 null text/html;charset=utf-8 254.6676ms
+2026-06-23 19:22:15.953 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5072/_framework/aspnetcore-browser-refresh.js - null null
+2026-06-23 19:22:15.957 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5072/_vs/browserLink - null null
+2026-06-23 19:22:15.959 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5072/_framework/aspnetcore-browser-refresh.js - 200 14953 application/javascript; charset=utf-8 5.7075ms
+2026-06-23 19:22:16.115 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 158.3875ms
+2026-06-23 19:22:16.409 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5072/swagger/v1/swagger.json - null null
+2026-06-23 19:22:16.426 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5072/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.4278ms
